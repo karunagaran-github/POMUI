@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-06T18:15:13 IST" name="Suite" finished-at="2023-12-06T18:15:40 IST" duration-ms="26459">
+    <groups>
+    </groups>
+    <test started-at="2023-12-06T18:15:13 IST" name="Test" finished-at="2023-12-06T18:15:40 IST" duration-ms="26459">
+      <class name="com.W3schools.utils.Reports">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.W3schools.utils.Reports@34e9fd99]" started-at="2023-12-06T18:15:13 IST" name="startReport" finished-at="2023-12-06T18:15:13 IST" duration-ms="506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.W3schools.utils.Reports@34e9fd99]" started-at="2023-12-06T18:15:40 IST" name="endReport" finished-at="2023-12-06T18:15:41 IST" duration-ms="974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.W3schools.utils.Reports -->
+      <class name="com.W3schools.test.LoginTest">
+        <test-method signature="loginWithCorrectCredentials()[pri:0, instance:com.W3schools.test.LoginTest@6a78afa0]" started-at="2023-12-06T18:15:13 IST" name="loginWithCorrectCredentials" finished-at="2023-12-06T18:15:39 IST" duration-ms="26384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCorrectCredentials -->
+      </class> <!-- com.W3schools.test.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

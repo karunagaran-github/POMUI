@@ -1,0 +1,6 @@
+com\W3schools\pages\LoginPage.class
+com\W3schools\utils\Sewrappers.class
+com\W3schools\pages\HomePage.class
+com\W3schools\utils\Reports.class
+com\W3schools\utils\W3wrappers.class
+com\W3schools\test\LoginTest.class
